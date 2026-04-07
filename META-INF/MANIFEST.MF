@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CKEditor Customization Example
+Bundle-SymbolicName: org.idempiere.ckeditor.example
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: .
+Bundle-Vendor: TGI
+Fragment-Host: org.adempiere.ui.zk;bundle-version="14.0.0"
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Jetty-WarPrependFragmentResourcePath: /
+Jetty-WarFragmentFolderPath: /
+Service-Component: OSGI-INF/*.xml
+Automatic-Module-Name: org.idempiere.ckeditor.example.singleton.true
