@@ -4,6 +4,6 @@ Make sure to use it when lauching the server (org.idempiere.ckeditor.example mus
 
 Launch iDempiere
 
-Create 2 System Configurator entries:
+Make sure those 2 System Configurator entries are present with correct values to config files:
 * CKEDITOR_FILE_CONFIG : /js/ckeditor/myConfig.js
 * CKEDITOR_FILE_CONFIG_MIN : /js/ckeditor/myConfig-min.js
