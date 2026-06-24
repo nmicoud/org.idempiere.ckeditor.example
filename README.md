@@ -1,3 +1,5 @@
+Example of a plugin for https://idempiere.atlassian.net/browse/IDEMPIERE-6953
+
 To test, import the plugins/fragment to your project in Eclipse.
 
 Make sure to use it when lauching the server (org.idempiere.ckeditor.example must be ticked in your launcher)
